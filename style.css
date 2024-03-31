@@ -294,6 +294,6 @@ button:hover {
 }
 @media screen and (max-width: 1080px) {
   nav {
-    height: 35px;
+    height: 60px;
   }
 }
