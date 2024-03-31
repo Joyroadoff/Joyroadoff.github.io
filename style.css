@@ -292,3 +292,8 @@ button:hover {
   transform: scale(1.5);
   transition: 0.6s;
 }
+@media screen and (max-width: 1080px) {
+  nav {
+    height: 35px;
+  }
+}
