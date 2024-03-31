@@ -48,7 +48,7 @@ nav {
 
 header li {
   float: right;
-  font-size: 1.75em;
+  font-size: 2.2em;
 }
 
 header li a {
@@ -108,7 +108,7 @@ h1:hover {
 
 /* *************** PRESENTATION ********************** */
 #presentation {
-  background-color: #20366da8;
+  background-color: rgb(32, 145, 177);
   padding: 10px 0px 100px 0;
 }
 
@@ -217,7 +217,7 @@ p {
 
 /* ******************* FOOTER ******************** */
 footer {
-  background-color: #911b1b;
+  background-color: #9a2929cd;
   color: #FFFAE1;
   padding: 20px 0 10px 0;
   text-align: center;
