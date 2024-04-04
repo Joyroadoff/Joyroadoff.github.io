@@ -216,6 +216,46 @@ p {
   box-shadow: -4px 4px 0 1px rgba(15, 154, 156, 1);
 } */
 
+
+/* **********************CONCERTS*********************** */
+#infos {
+  margin: 2px;
+  font-size: 1rem;
+  color: #FFFAE1;
+}
+
+#heure {
+  text-align: center;
+  margin: 0;
+  color: #FFFAE1;
+}
+
+h4 {
+  font-size: 2rem;
+  margin: 10px;
+  color: #FFFAE1;
+}
+
+#box {
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.Concert {
+  background-color: rgba(36, 57, 172, 0.877);
+  height: 2000x;
+}
+
+h3 {
+  margin: 0;
+}
+
+#buttonconcert {
+  width: 15%;
+  border-radius: 15px;
+}
+
 /* ******************* FOOTER ******************** */
 footer {
   background-color: #9a2929cd;
@@ -248,6 +288,7 @@ textarea {
 button {
   font-size: 1.5em;
   background-color: #FFFAE1;
+  border: solid 1px black;
 }
 
 button:hover {
@@ -293,4 +334,4 @@ button:hover {
 #icons a:hover {
   transform: scale(1.5);
   transition: 0.6s;
-}
+
