@@ -67,9 +67,9 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/Joyroad.png) no-repeat fixed 50% 50%;
+  background: url(media/Joyroad\ \(1\).png) no-repeat fixed 50% 50%;
   background-size: cover;
-  height: 799px;
+  min-height: 800px;
   width: 100%;
   margin: auto;
 }
@@ -248,7 +248,7 @@ h4 {
 }
 
 h3 {
-  margin: 0;
+  margin: 7.5px;
 }
 
 #buttonconcert {
