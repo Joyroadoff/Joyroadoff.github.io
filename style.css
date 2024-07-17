@@ -107,6 +107,25 @@ h1:hover {
   width: 100%;
 }
 
+/* *******************Gallery******************************* */
+
+#gallery {
+  padding: 9px;
+  height: 100px;
+  background-color: #2aaa9f;
+}
+
+h4 {
+  text-align: center;
+}
+
+h4:hover {
+  color: rgb(0, 0, 0);
+  transform: scale(1.05);
+  transition: 0.95s ease-in-out;
+}
+
+
 /* *************** PRESENTATION ********************** */
 #presentation {
   background-color: rgb(32, 145, 177);
