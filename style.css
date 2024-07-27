@@ -72,6 +72,7 @@ header li a {
   min-height: 800px;
   width: 100%;
   margin: auto;
+  padding-bottom: 600px;
 }
 
 h1 {
@@ -110,13 +111,14 @@ h1:hover {
 /* *******************Gallery******************************* */
 
 #gallery {
-  padding: 9px;
+  padding: 50px;
   height: 100px;
   background-color: #2aaa9f;
 }
 
 h4 {
   text-align: center;
+
 }
 
 h4:hover {
@@ -129,7 +131,7 @@ h4:hover {
 /* *************** PRESENTATION ********************** */
 #presentation {
   background-color: rgb(32, 145, 177);
-  padding: 10px 0px 100px 0;
+  padding: 10px 0px 0 0;
 }
 
 #texteIntro {
@@ -144,7 +146,7 @@ h2:hover {
 
 p {
   font-size: 1.5em;
-  margin: 35 auto 50 auto;
+  margin: 50 auto 50 auto;
 }
 
 /* #prestations {
